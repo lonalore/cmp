@@ -2,8 +2,8 @@
 Contributors: lonalore
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PQYDBAMQ3D2UG
 Tags: website, screenshot, full-page, media
-Requires at least: 2.8
-Tested up to: 3.5
+Requires at least: 3.5
+Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
