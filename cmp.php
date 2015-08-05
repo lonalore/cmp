@@ -6,7 +6,7 @@ Description: This plugin allows user to create a website screenshot in the conte
 Version: 1.0.0
 Author: Lóna Lore
 Author URI: http://lonalore.hu
-License: GPLv2
+License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
 
@@ -464,13 +464,6 @@ class CaptureMyPage {
 		return $data;
 	}
 
-	/**
-	 * modification from media.php function
-	 *
-	 * @param string $type
-	 * @param array $errors Errors for attachment, if any.
-	 * @param int $id Optional. Post ID.
-	 */
 	function media_upload_type_form($type = 'file', $errors = NULL, $id = NULL) {
 		$post_id = isset($_REQUEST['post_id'])? intval($_REQUEST['post_id']) : 0;
 
