@@ -1,3 +1,5 @@
+### This project moved to here: https://wordpress.org/plugins/cmp
+
 CMP - CaptureMyPage
 ===================
 
